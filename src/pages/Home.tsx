@@ -113,14 +113,14 @@ const Home = () => {
       
       <div className="container py-12 space-y-6">
         <ContentRow title="Trending Now" items={trendingContent} />
-        <ContentRow title="Popular on MasterStream" items={popularContent} />
+        <ContentRow title="Popular on KAVACH" items={popularContent} />
         
         {/* Features section */}
         <div className="py-16">
           <div className="text-center mb-12">
             <h2 className="text-3xl font-bold mb-4">Blockchain-Secured Streaming Platform</h2>
             <p className="text-muted-foreground max-w-2xl mx-auto">
-              MasterStream combines the power of blockchain with premium streaming experiences, 
+              KAVACH combines the power of blockchain with premium streaming experiences, 
               giving creators control and viewers unprecedented access.
             </p>
           </div>

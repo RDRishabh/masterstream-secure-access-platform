@@ -13,9 +13,9 @@ const Navbar = () => {
         <div className="flex items-center gap-8">
           <Link to="/" className="flex items-center gap-2">
             <div className="h-8 w-8 rounded-md bg-gradient-to-br from-platform-purple to-platform-teal flex items-center justify-center">
-              <span className="font-bold text-white">MS</span>
+              <span className="font-bold text-white">KV</span>
             </div>
-            <span className="font-heading font-bold text-lg hidden sm:inline-block">MasterStream</span>
+            <span className="font-heading font-bold text-lg hidden sm:inline-block">KAVACH</span>
           </Link>
           
           <nav className="hidden md:flex items-center gap-1">

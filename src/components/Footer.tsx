@@ -9,9 +9,9 @@ const Footer = () => {
           <div>
             <Link to="/" className="flex items-center gap-2 mb-4">
               <div className="h-8 w-8 rounded-md bg-gradient-to-br from-platform-purple to-platform-teal flex items-center justify-center">
-                <span className="font-bold text-white">MS</span>
+                <span className="font-bold text-white">KV</span>
               </div>
-              <span className="font-heading font-bold text-lg">MasterStream</span>
+              <span className="font-heading font-bold text-lg">KAVACH</span>
             </Link>
             <p className="text-muted-foreground text-sm">
               Secure, transparent, and decentralized streaming platform powered by blockchain technology.
@@ -49,7 +49,7 @@ const Footer = () => {
         </div>
         
         <div className="border-t border-border/40 mt-8 pt-6 flex flex-col md:flex-row justify-between items-center">
-          <p className="text-xs text-muted-foreground">© {new Date().getFullYear()} MasterStream. All rights reserved.</p>
+          <p className="text-xs text-muted-foreground">© {new Date().getFullYear()} KAVACH. All rights reserved.</p>
           <div className="flex gap-4 mt-4 md:mt-0">
             <Link to="#" className="text-xs text-muted-foreground hover:text-foreground">Twitter</Link>
             <Link to="#" className="text-xs text-muted-foreground hover:text-foreground">Discord</Link>
